@@ -1,0 +1,13 @@
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe.config
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.pdb
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.AssemblyReference.cache
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.CopyComplete
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.exe
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.pdb

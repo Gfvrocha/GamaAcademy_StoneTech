@@ -9,3 +9,14 @@ C:\Users\Gfvro\OneDrive\Área de Trabalho\Stone Tech\dotNET\Exemplo VS 2022\DBFi
 C:\Users\Gfvro\OneDrive\Área de Trabalho\Stone Tech\dotNET\Exemplo VS 2022\DBFirstDemoo\DBFirstDemoo\obj\Debug\DBFirstDemoo.csproj.CopyComplete
 C:\Users\Gfvro\OneDrive\Área de Trabalho\Stone Tech\dotNET\Exemplo VS 2022\DBFirstDemoo\DBFirstDemoo\obj\Debug\DBFirstDemoo.exe
 C:\Users\Gfvro\OneDrive\Área de Trabalho\Stone Tech\dotNET\Exemplo VS 2022\DBFirstDemoo\DBFirstDemoo\obj\Debug\DBFirstDemoo.pdb
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\Gama Academy_GitHub\GamaAcademy_StoneTech\DBFirstDemo\DBFirstDemoo\bin\Debug\DBFirstDemoo.exe.config
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\Gama Academy_GitHub\GamaAcademy_StoneTech\DBFirstDemo\DBFirstDemoo\bin\Debug\DBFirstDemoo.exe
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\Gama Academy_GitHub\GamaAcademy_StoneTech\DBFirstDemo\DBFirstDemoo\bin\Debug\DBFirstDemoo.pdb
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\Gama Academy_GitHub\GamaAcademy_StoneTech\DBFirstDemo\DBFirstDemoo\bin\Debug\EntityFramework.dll
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\Gama Academy_GitHub\GamaAcademy_StoneTech\DBFirstDemo\DBFirstDemoo\bin\Debug\EntityFramework.xml
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\Gama Academy_GitHub\GamaAcademy_StoneTech\DBFirstDemo\DBFirstDemoo\obj\Debug\DBFirstDemoo.csproj.AssemblyReference.cache
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\Gama Academy_GitHub\GamaAcademy_StoneTech\DBFirstDemo\DBFirstDemoo\obj\Debug\DBFirstDemoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\Gama Academy_GitHub\GamaAcademy_StoneTech\DBFirstDemo\DBFirstDemoo\obj\Debug\DBFirstDemoo.csproj.CoreCompileInputs.cache
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\Gama Academy_GitHub\GamaAcademy_StoneTech\DBFirstDemo\DBFirstDemoo\obj\Debug\DBFirstDemoo.csproj.CopyComplete
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\Gama Academy_GitHub\GamaAcademy_StoneTech\DBFirstDemo\DBFirstDemoo\obj\Debug\DBFirstDemoo.exe
+C:\Users\Gfvro\OneDrive\Área de Trabalho\Personal\Felipe\Programação\Stone Tech\dotNET\Exemplo VS 2022\Gama Academy_GitHub\GamaAcademy_StoneTech\DBFirstDemo\DBFirstDemoo\obj\Debug\DBFirstDemoo.pdb
